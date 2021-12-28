@@ -17,6 +17,6 @@ Find  here:
 * 4 - Weather Observation Station 20 - RackerRank >> median calculation with rank, over and count
 * 5 - New Companies - HackerRank >> COUNT, DISTINCT, LEFT JOIN, GROUP BY, ORDER BY
 * 6 - The PADS - HackerRank >> CONCAT, SUBSTRING, CASE WHEN
-
+* 7 - Weather Observation Station 6 - RackerRank >> regex to find cities that habe vowel as their first letter 
 ## Strata Scratch
 
