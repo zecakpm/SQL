@@ -19,6 +19,7 @@ Find  here:
 * 6 - The PADS - HackerRank >> CONCAT, SUBSTRING, CASE WHEN
 * 7 - Weather Observation Station 6 - RackerRank >> regex to find cities that have vowel as their first letter 
 * 8 - Weather Observation Station 7 - RackerRank >> regex to find cities that have vowel as their last letter 
-
+* 9 - Weather Observation Station 18 - RackerRank >> Calculate Manhattan distance between 2 points >>  ROUND, ABS, MAX, and MIN 
+ 
 ## Strata Scratch
 
